@@ -4,7 +4,7 @@ Inefficiencies in yard management can lead to delays, increased operational cost
 ## Proposed Solution: 
 Intelligent Yard Management System (IYMS) with Real-Time Tracking and AI Optimization. The Intelligent Yard Management System (IYMS) leverages AI, IoT, and real-time data analytics to optimize the movement and management of trailers within Walmart warehouses and store premises. The system ensures efficient trailer utilization, reduces operational costs, and enhances overall productivity by providing real-time visibility and intelligent decision-making capabilities.
 ## Features
-    1.	Real-Time Yard Visualization
+    1.  Real-Time Yard Visualization
     2.  Automated and Optimized Trailer Dispatch
     3.  Increased Efficiency
     4.  Easy profile tracking and Registration
