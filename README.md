@@ -27,7 +27,7 @@ Intelligent Yard Management System (IYMS) with Real-Time Tracking and AI Optimiz
 ## Installation
 
 Install project with npm or download 
-
+(clone repo to your github)
 ```bash
   npm install **project name**
   cd my-project
